@@ -1,0 +1,10 @@
+/gps/particle ion
+/gps/ion 9 18 0 0  # Z=9 (fluorine), A=18, E=0, metastable=0
+
+/gps/pos/type Point
+
+/gps/pos/centre 0.1 0.002 0.44 m
+
+/gps/ang/type iso
+
+
